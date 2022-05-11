@@ -1,12 +1,10 @@
-<h1 align="center">Hi, i’m @Jhoan <img src="https://i.imgur.com/ILVRpZm.gif" width="30px"></h1>
-<h3 align="center">I'm currently working as a freelancer and learning new things also i'm developing discord bots in Strider Development.</h3>
+<h1 align="center">Hi, i’m @LitWiss <img src="https://i.imgur.com/ILVRpZm.gif" width="30px"></h1>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Absolet Bot](https://strider.cloud)**
-- 🌱 I’m currently learning **Javascript**
-- 📫 How to reach me **[Jhoan#6969](https://jhoan.monster/)** in Discord
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jhoan.monster)**
+- 🔭 I’m currently working on **[LunarCoins](https://litwiss/discord)**
+- 🌱 I’m currently learning **Java**
+- 📫 How to reach me **[LitWiss#9591](https://litwiss/discord)** in Discord
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
@@ -25,8 +23,8 @@
   
 ## 👤 Me in this moment
 <p align="center">
-    <a href="https://discord.com/users/852617426591154177" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/852617426591154177?idleMessage=Probably%20coding%20Absolet..." alt="Discord Presence" align="center">
+    <a href="https://discord.com/users/813244842473029643" target="_blank" rel="nofollow">
+        <img src="https://lanyard-profile-readme.vercel.app/api/813244842473029643?idleMessage=Probably%20coding%20Absolet..." alt="Discord Presence" align="center">
     </a>
 </p>
 
